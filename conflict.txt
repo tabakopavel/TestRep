@@ -1,1 +1,1 @@
-method{ do that }
+method{ do that and do this }
